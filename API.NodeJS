@@ -1,0 +1,3 @@
+https://github.com/dollminnyy/podcast-manager-api
+Este projeto consiste na criação de uma API para gerenciamento de podcasts, desenvolvida com Node.js, TypeScript e o módulo nativo HTTP, sem o uso de frameworks externos como Express.
+A aplicação permite gerenciar dados de podcasts, simulando funcionalidades comuns de plataformas de streaming, como listagem e organização de episódios.
